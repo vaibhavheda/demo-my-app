@@ -1,0 +1,26 @@
+.field {
+  width: 100%;
+}
+input[type="text"] {
+  width: 95%;
+  margin: 10px;
+}
+.addPostContainer {
+  margin: 10px;
+  padding: 10px;
+  display: block;
+}
+.titlePost {
+  padding: 10px;
+}
+.button {
+  width: 100%;
+  display: inline-block;
+  color: #000;
+  position: relative;
+}
+input[type="button"] {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

@@ -1,0 +1,32 @@
+.cardContainer {
+  padding: 10px;
+  margin: 15px 10px;
+  border-radius: 10px;
+  background-color: rgb(225, 225, 225);
+  box-shadow: 2px 2px 10px #888888;
+}
+
+.cardExpandedContianer {
+  padding: 10px;
+  background-color: rgb(225, 225, 225);
+  box-shadow: 2px 2px 10px #888888;
+}
+
+.cardContainer .title,
+.cardExpandedContianer .title {
+  margin: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.cardContainer .body,
+.cardExpandedContianer .body {
+  margin: 10px;
+  font-size: 12px;
+}
+
+.lastComment {
+  margin: 10px;
+  font-size: 10px;
+  color: rgb(114, 112, 112);
+}
